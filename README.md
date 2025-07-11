@@ -111,7 +111,7 @@
       });
   </script>
 
-  <!-- ✅ Visitor Counter (No setup needed) -->
+  <!-- ✅ Visitor Counter (No GA, no setup) -->
   <h2 style="margin-top: 3rem;">👀 Visitors</h2>
   <img src="https://hits.sh/gujjumohitreddy.github.io.svg?style=for-the-badge&label=Profile+Views&color=purple" alt="hit counter" />
 
