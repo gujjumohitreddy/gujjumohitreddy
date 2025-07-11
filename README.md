@@ -91,8 +91,12 @@
 
 ### 👀 Profile Visitors
 
+---
+
+### 👀 Profile Visitors
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=gujjumohitreddy&label=Profile%20Views&color=0&icon=5&pretty=true"/>
+  <img src="https://komarev.com/ghpvc/?username=gujjumohitreddy&style=for-the-badge&color=blueviolet" alt="gujjumohitreddy" />
 </p>
 
 ---
