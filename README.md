@@ -68,23 +68,27 @@
 ## 🏆 GitHub Trophies
 ...
 
+---
+
 ## 📰 Live Tech Updates
 
-Stay updated with the latest news and innovations in tech, AI, startups, and open source:
+Stay updated with the latest in tech, AI, and open source:
 
-- 🚀 [TechCrunch – Latest in Startups & Gadgets](https://techcrunch.com/)
-- 🤖 [The Decoder – AI News & Insights](https://the-decoder.com/)
-- 🧠 [OpenAI Blog – Research & Product Updates](https://openai.com/blog/)
-- 🌐 [GitHub Blog – Developer Tools & News](https://github.blog/)
-- 📈 [Google AI Blog – Innovations from Google Research](https://ai.googleblog.com/)
+- 🚀 [**TechCrunch** – Latest in Startups & Gadgets](https://techcrunch.com/)
+- 🤖 [**The Decoder** – AI News & Insights](https://the-decoder.com/)
+- 🧠 [**OpenAI Blog** – Research & Product Updates](https://openai.com/blog/)
+- 🌐 [**GitHub Blog** – Developer Tools & Open Source](https://github.blog/)
+- 📈 [**Google AI Blog** – Innovations from Google Research](https://ai.googleblog.com/)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TechCrunch-News-green?style=for-the-badge&logo=techcrunch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-Blog-8a2be2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Blog-black?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20AI-Blog-blue?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/The%20Decoder-AI%20News-red?style=for-the-badge" />
-</p>
+---
+
+**Quick Access Badges:**
+
+[![TechCrunch](https://img.shields.io/badge/TechCrunch-News-green?style=for-the-badge&logo=techcrunch&logoColor=white)](https://techcrunch.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-Blog-8a2be2?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/blog/)
+[![GitHub Blog](https://img.shields.io/badge/GitHub-Blog-black?style=for-the-badge&logo=github&logoColor=white)](https://github.blog/)
+[![Google AI](https://img.shields.io/badge/Google%20AI-Blog-blue?style=for-the-badge&logo=google&logoColor=white)](https://ai.googleblog.com/)
+[![The Decoder](https://img.shields.io/badge/The%20Decoder-AI%20News-red?style=for-the-badge)](https://the-decoder.com/)
 
 > 📌 Tip: Click the badges or links above to read what’s trending in tech right now!
 
