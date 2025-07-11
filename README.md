@@ -28,30 +28,16 @@
     .badges img {
       margin: 0.5rem;
     }
-    button.resume {
-      padding: 0.7rem 1.5rem;
-      background-color: #238636;
-      color: white;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
-      font-size: 1rem;
-      margin-top: 1rem;
-    }
-    #repos {
-      margin-top: 2rem;
-    }
-    .repo {
-      margin: 0.5rem 0;
-      background-color: #161b22;
-      padding: 1rem;
-      border-radius: 8px;
-      width: 80%;
-      max-width: 600px;
-      margin-left: auto;
-      margin-right: auto;
-    }
   </style>
+
+  <!-- ✅ Google Analytics (Replace with your Measurement ID) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX'); // Replace this line
+  </script>
 </head>
 
 <body>
@@ -63,12 +49,6 @@
     🤝 Let's collaborate on open-source projects!
   </p>
 
-  <!-- ✅ Resume Button -->
-  <a href="assets/gujju_mohit_resume.pdf" download>
-    <button class="resume">📄 Download My Resume</button>
-  </a>
-
-  <!-- ✅ Social Links -->
   <div class="socials">
     <a href="https://linkedin.com/in/gmohitreddy"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
     <a href="https://x.com/gmohitreddy"><img src="https://skillicons.dev/icons?i=twitter" /></a>
@@ -76,7 +56,6 @@
     <a href="https://github.com/gujjumohitreddy"><img src="https://skillicons.dev/icons?i=github" /></a>
   </div>
 
-  <!-- ✅ Tech News Section -->
   <h2>📰 Live Tech Updates</h2>
   <p>
     🚀 <a href="https://techcrunch.com/">TechCrunch</a> &nbsp;|&nbsp;
@@ -92,32 +71,8 @@
     <a href="https://ai.googleblog.com/"><img src="https://img.shields.io/badge/Google%20AI-Blog-blue?style=for-the-badge&logo=google&logoColor=white" /></a>
   </div>
 
-  <!-- ✅ Auto GitHub Repos -->
-  <h2>📦 Latest Projects</h2>
-  <div id="repos">Loading projects...</div>
-
-  <script>
-    fetch("https://api.github.com/users/gujjumohitreddy/repos?sort=updated")
-      .then(res => res.json())
-      .then(data => {
-        const container = document.getElementById("repos");
-        container.innerHTML = "";
-        data.slice(0, 5).forEach(repo => {
-          const div = document.createElement("div");
-          div.className = "repo";
-          div.innerHTML = `<strong><a href="${repo.html_url}" target="_blank">${repo.name}</a></strong><br/>${repo.description || 'No description'}<br/>⭐ ${repo.stargazers_count} | 🔄 ${repo.forks_count}`;
-          container.appendChild(div);
-        });
-      });
-  </script>
-
-  <!-- ✅ Visitor Counter (No GA, no setup) -->
-  <h2 style="margin-top: 3rem;">👀 Visitors</h2>
-  <img src="https://hits.sh/gujjumohitreddy.github.io.svg?style=for-the-badge&label=Profile+Views&color=purple" alt="hit counter" />
-
-  <!-- Footer -->
   <footer style="margin-top: 3rem;">
-    <p>Made with ❤️ by Gujju Mohit | Powered by GitHub Pages</p>
+    <p>Made with ❤️ by Gujju Mohit</p>
   </footer>
 </body>
 </html>
