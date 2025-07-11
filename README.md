@@ -44,7 +44,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gujjumohitreddy&show_icons=true&theme=tokyonight&count_private=true" height="170px"/>
@@ -65,11 +65,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-...
-
----
-
 ## 📰 Live Tech Updates
 
 Stay updated with the latest in tech, AI, and open source:
@@ -79,8 +74,6 @@ Stay updated with the latest in tech, AI, and open source:
 - 🧠 [**OpenAI Blog** – Research & Product Updates](https://openai.com/blog/)
 - 🌐 [**GitHub Blog** – Developer Tools & Open Source](https://github.blog/)
 - 📈 [**Google AI Blog** – Innovations from Google Research](https://ai.googleblog.com/)
-
----
 
 **Quick Access Badges:**
 
@@ -92,11 +85,13 @@ Stay updated with the latest in tech, AI, and open source:
 
 > 📌 Tip: Click the badges or links above to read what’s trending in tech right now!
 
+---
+
 ### 🚀 Projects Highlight
 
-- 🧠 **Virtual Medical Assistant** – final year project using NLP & Python  
-- 🤖 **Desktop AI Assistant** – your own JARVIS-style assistant built in Python  
-- 💡 Check out more cool stuff in my pinned repos!
+- 🧠 **Virtual Medical Assistant** – Final year project using Python + NLP  
+- 🤖 **Desktop AI Assistant** – A JARVIS-style voice AI in Python  
+- 💡 More projects & tools in my pinned repositories!
 
 ---
 
@@ -108,7 +103,7 @@ Stay updated with the latest in tech, AI, and open source:
 
 ---
 
-### 🔝 Top Repositories
+### 🔝 Top Contributed Repo
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=gujjumohitreddy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
