@@ -65,6 +65,29 @@
 
 ---
 
+## 🏆 GitHub Trophies
+...
+
+## 📰 Live Tech Updates
+
+Stay updated with the latest news and innovations in tech, AI, startups, and open source:
+
+- 🚀 [TechCrunch – Latest in Startups & Gadgets](https://techcrunch.com/)
+- 🤖 [The Decoder – AI News & Insights](https://the-decoder.com/)
+- 🧠 [OpenAI Blog – Research & Product Updates](https://openai.com/blog/)
+- 🌐 [GitHub Blog – Developer Tools & News](https://github.blog/)
+- 📈 [Google AI Blog – Innovations from Google Research](https://ai.googleblog.com/)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TechCrunch-News-green?style=for-the-badge&logo=techcrunch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-Blog-8a2be2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Blog-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20AI-Blog-blue?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/The%20Decoder-AI%20News-red?style=for-the-badge" />
+</p>
+
+> 📌 Tip: Click the badges or links above to read what’s trending in tech right now!
+
 ### 🚀 Projects Highlight
 
 - 🧠 **Virtual Medical Assistant** – final year project using NLP & Python  
@@ -86,10 +109,6 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=gujjumohitreddy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
-
----
-
-### 👀 Profile Visitors
 
 ---
 
