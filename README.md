@@ -1,94 +1,113 @@
-<h1 align="center">Hi 👋, I'm Gujju Mohit</h1>
-<h3 align="center">Aspiring Python Developer | CSE Graduate | Open Source Enthusiast</h3>
+<h1 align="center">👋 Hey there! I'm Gujju Mohit</h1>
+<h3 align="center">🚀 Python Developer | 💡 Tech Enthusiast | 🌐 Web Explorer | 💬 Open Source Contributor</h3>
 
 ---
 
-💫 **About Me**  
-Aspiring developer with a **B.Tech in Computer Science and Engineering** from **JNTU Gurajada, Vizianagaram**. Proficient in **Python, HTML, and CSS**, I love building projects that blend functionality with creativity.
-
-- 🔭 I’m currently working on personal Python & web projects  
-- 🤝 I’m looking to collaborate on open-source Python or web-based projects  
-- 🌱 Currently learning: **Advanced Python**, **Responsive Web Design**, **Git & GitHub**  
-- 💬 Ask me about: **Python**, **Web Dev for Beginners**, or my journey  
-- ⚡ Fun fact: I built a **Virtual Medical Assistant** in my final year!  
-- 📂 Check out my repositories for mini-projects and problem-solving ideas!
-
----
-
-## 🌐 Socials:
-<p align="left">
-  <a href="https://facebook.com/mohit.reddy.9655"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/gmohitreddy"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gmohitreddy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://quora.com/profile/Gujju-Mohit-Reddy"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" /></a>
-  <a href="https://x.com/gmohitreddy"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Aspiring+Developer+%F0%9F%92%BB;Python+%7C+Web+%7C+Automation+Enthusiast;Always+Learning+%F0%9F%93%9A;Let's+build+something+great+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💻 Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+### 💫 About Me
+
+🎓 I'm a **Computer Science Graduate (2024)** from **JNTU Gurajada, Vizianagaram**  
+💻 I love building real-world projects that merge creativity and functionality  
+🌟 Proficient in **Python, HTML, CSS**, and exploring **Django**, **Flask**, and more  
+💡 Always curious about new technologies & open source  
+📌 Looking for collaborations in Python/web projects & internships  
+
+#### 🔍 Currently Working On:
+- 🔨 Personal Python utilities, mini tools, and portfolio site  
+- 🧠 Learning advanced Python & mastering Git  
+- 🎯 Improving UI/UX using Figma and Canva
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/gmohitreddy"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/gmohitreddy"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://instagram.com/gmohitreddy"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://facebook.com/mohit.reddy.9655"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://quora.com/profile/Gujju-Mohit-Reddy"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,django,flask,mysql,mongodb,git,github,figma,canva,photoshop,illustrator,anaconda,vscode,postman" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gujjumohitreddy&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gujjumohitreddy&theme=dark" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gujjumohitreddy&theme=dark&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gujjumohitreddy&show_icons=true&theme=tokyonight&count_private=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gujjumohitreddy&theme=tokyonight&hide_border=false" height="170px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gujjumohitreddy&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gujjumohitreddy&theme=radical&no-bg=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gujjumohitreddy&theme=dracula&column=7&no-frame=true&no-bg=true"/>
 </p>
 
 ---
 
-## ✍️ Quote of the Day
+### 🚀 Projects Highlight
+
+- 🧠 **Virtual Medical Assistant** – final year project using NLP & Python  
+- 🤖 **Desktop AI Assistant** – your own JARVIS-style assistant built in Python  
+- 💡 Check out more cool stuff in my pinned repos!
+
+---
+
+### 📌 Quote of the Day
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔝 Top Contributed Repo
+### 🔝 Top Repositories
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gujjumohitreddy&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=gujjumohitreddy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
 
-## 📈 Profile Visitors
+### 👀 Profile Visitors
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=gujjumohitreddy&icon=5&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=gujjumohitreddy&label=Profile%20Views&color=0&icon=5&pretty=true"/>
 </p>
 
 ---
 
-## 💰 Support Me
-<a href="https://paypal.me/gujjumohitreddy">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-</a>
+### 💰 Support My Work
+
+<p align="center">
+  <a href="https://paypal.me/gujjumohitreddy">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal"/>
+  </a>
+</p>
 
 ---
 
-<!-- Made with ❤️ by Gujju Mohit -->
-<!-- Powered by GPRM (https://gprm.itsvg.in) -->
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br>
+  🔗 Powered by ❤️ | Created with GPRM | Updated by Gujju Mohit
+</p>
